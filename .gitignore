@@ -14,3 +14,6 @@
 # Carpetas de salida por defecto
 bin/
 obj/
+
+# Configuraciones locales de VS Code
+.vscode/
