@@ -1,0 +1,16 @@
+# Archivos de configuración local e historial de Code::Blocks
+*.depend
+*.layout
+
+# Objetos compilados
+*.o
+*.obj
+
+# Archivos ejecutables (Windows y Linux/Mac)
+*.exe
+*.out
+*.bin
+
+# Carpetas de salida por defecto
+bin/
+obj/
